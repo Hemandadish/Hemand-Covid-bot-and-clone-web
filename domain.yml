@@ -45,6 +45,12 @@ intents:
     use_entities: true
 - primary_symp:
     use_entities: true
+- treatment:
+    use_entities: true
+- self_care:
+    use_entities: true
+- medical:
+    use_entities: true
 entities: []
 slots: {}
 responses:
@@ -118,6 +124,28 @@ responses:
   utter_primary_symp:
   - image: https://cdn.vox-cdn.com/thumbor/b_XHmLAgjMLRq4shAqoZVZSgiMw=/1400x1050/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/20537762/Covid_Symptoms.png
     text: Some of the primary symptoms to look for in a Covid 19 infected person are fever, dizziness, breathlessness, headache, dry cough ( eventually result in phlegm) and in a few cases loss in smell and taste. A few cases have also reported diarrhoea and fatigue.
+  utter_treatment:
+  - text: 'Here are the treatments for COVID-19:'
+  utter_self_care:
+  - text: |-
+      ✔Isolate yourself in a well ventilated room.
+      ✔Use a triple layer medical mask, discard mask after 8 hours of use or earlier if they become wet or visibly soiled. In the event of a caregiver entering the room, both caregiver and patient may consider using N 95 mask.
+      ✔Mask should be discarded only after disinfecting it with 1% Sodium Hypochlorite.
+      ✔Take rest and drink a lot of fluids to maintain adequate hydration.
+      ✔Follow respiratory etiquettes at all times.
+      ✔Frequent hand washing with soap and water for at least 40 seconds or clean with alcohol-based sanitizer.
+      ✔Don’t share personal items with other people in the household.
+      ✔Ensure cleaning of surfaces in the room that are touched often (tabletops, doorknobs, handles, etc.) with 1% hypochlorite solution.
+      ✔Monitor temperature daily.
+      Monitor oxygen saturation with a pulse oximeter daily.
+      Connect with the treating physician promptly if any deterioration of symptoms is noticed.
+  utter_medical:
+  - text: |-
+      ✔Treatment for patients with mild/asymptomatic disease in home isolation
+      ✔Patients must be in communication with a treating physician and promptly report in case of any worsening.
+      ✔Continue the medications for other co-morbid illness after consulting the treating physician.
+      ✔Patients to follow symptomatic management for fever, running nose and cough, as warranted.
+      ✔Patients may perform warm water gargles or take steam inhalation twice a day.
 actions: []
 forms: {}
 e2e_actions: []

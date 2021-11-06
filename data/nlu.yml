@@ -185,3 +185,9 @@ nlu:
 - intent: treatment
   examples: |
     - what are the treatments for corona virus
+- intent: self_care
+  examples: |
+    - self care
+- intent: medical
+  examples: |
+    - medical treatment
