@@ -66,3 +66,7 @@ stories:
   steps:
   - intent: specific_age
   - action: utter_specific_age
+- story: symptoms
+  steps:
+  - intent: symptoms
+  - action: utter_symptoms

@@ -41,6 +41,8 @@ intents:
     use_entities: true
 - specific_age:
     use_entities: true
+- symptoms:
+    use_entities: true
 entities: []
 slots: {}
 responses:
@@ -92,6 +94,25 @@ responses:
     text: |-
       ✔People of all ages can be infected by the COVID-19 virus.
       ✔Older people and younger people can be infected by the COVID-19 virus. Older people, and people with pre-existing medical conditions such as asthma, diabetes, and heart disease appear to be more vulnerable to becoming severely ill with the virus.
+  utter_symptoms:
+  - image: https://www.sharp.com/health-news/images/Top-5-Symptoms-of-COVID-19-HN2387-iStock-1217199413-Sized.png
+    text: |-
+      MOST COMMON SYMPTOMS:
+      🌡fever
+      🌡cough
+      🌡tiredness
+      🌡loss of taste or smell
+      LESS COMMON SYMPTOMS:
+      🌡sore throat
+      🌡headache
+      🌡aches and pains
+      🌡diarrhoea
+      🌡a rash on skin, or discolouration of fingers or toes
+      🌡red or irritated eyes
+      SERIOUS SYMPTOMS:
+      🌡difficulty breathing or shortness of breath
+      🌡loss of speech or mobility, or confusion
+      🌡chest pain
 actions: []
 forms: {}
 e2e_actions: []
