@@ -169,3 +169,10 @@ nlu:
     - aged people can easily get infected by corona
     - are aged people at high risk of COVID-19
     - Are the elderly more vulnerable to the coronavirus disease?
+- intent: symptoms
+  examples: |
+    - symptoms of corona virus
+    - symptoms of covid-19
+    - what are the symptoms of novel corona virus
+    - list out the symptoms of corona virus
+    - list out the signs for corona virus
