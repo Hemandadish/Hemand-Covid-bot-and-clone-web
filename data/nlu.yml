@@ -117,6 +117,8 @@ nlu:
 - intent: age_high_risk
   examples: |
     - Who are at higher risk of developing serious illness from COVID-19?
+    - Who is at high risk from coronavirus (COVID-19)
+    - Who's at higher risk of serious symptoms of COVID-19
 - intent: corona_spread
   examples: |
     - how does corona virus spread
@@ -158,9 +160,11 @@ nlu:
     - how does community spread occurs
     - community spread
     - what is community transmission of coronavirus
-- intent: age_people
+- intent: specific_age
   examples: |
     - Are people of a particular age vulnerable to coronavirus disease?
+- intent: age_people
+  examples: |
     - does elderly people get affected by corona easily
     - aged people can easily get infected by corona
     - are aged people at high risk of COVID-19
