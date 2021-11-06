@@ -39,7 +39,7 @@ entities: []
 slots: {}
 responses:
   utter_greet:
-  - image: https://o.remove.bg/downloads/3eb3f439-7a09-42cc-8e6d-071a3961614b/1608731313-masterclassherosara-1-removebg-preview.png
+  - image: https://o.remove.bg/downloads/1abd856c-f4fb-43b0-9d8d-082b753cb6c4/1608731313-masterclassherosara-1-removebg-preview.png
     text: Hello! Lufy here.. I can help you with the information related to COVID-19 answers on the topic info of corona virus, spread, symptoms, treatment, prevention, current statistics and more.
   utter_cheer_up:
   - image: https://i.imgur.com/nGF1K8f.jpg
