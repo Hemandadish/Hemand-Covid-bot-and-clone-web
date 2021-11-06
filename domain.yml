@@ -135,7 +135,8 @@ responses:
     image: https://bsmedia.business-standard.com/media-handler.php?mediaPath=http://bsmedia.business-standard.com/_media/bs/img/article/2016-12/23/full/1482515155-826.jpg&width=1200
     text: 'Here are the treatments for COVID-19:'
   utter_self_care:
-  - text: |-
+  - image: https://upstatewarriorsolution.org/wp-content/uploads/2021/02/https-_specials-images.forbesimg.com_imageserve_1173493820_0x0.jpg
+    text: |-
       ✔Isolate yourself in a well ventilated room.
       ✔Use a triple layer medical mask, discard mask after 8 hours of use or earlier if they become wet or visibly soiled. In the event of a caregiver entering the room, both caregiver and patient may consider using N 95 mask.
       ✔Mask should be discarded only after disinfecting it with 1% Sodium Hypochlorite.
@@ -148,7 +149,8 @@ responses:
       Monitor oxygen saturation with a pulse oximeter daily.
       Connect with the treating physician promptly if any deterioration of symptoms is noticed.
   utter_medical:
-  - text: |-
+  - image: https://www.medicaldevice-network.com/wp-content/uploads/sites/11/2020/08/Covid-19-1.png
+    text: |-
       ✔Treatment for patients with mild/asymptomatic disease in home isolation
       ✔Patients must be in communication with a treating physician and promptly report in case of any worsening.
       ✔Continue the medications for other co-morbid illness after consulting the treating physician.
