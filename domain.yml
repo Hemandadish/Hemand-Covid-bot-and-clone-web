@@ -51,6 +51,8 @@ intents:
     use_entities: true
 - medical:
     use_entities: true
+- affirm_self_care:
+    use_entities: true
 entities: []
 slots: {}
 responses:
@@ -126,9 +128,9 @@ responses:
     text: Some of the primary symptoms to look for in a Covid 19 infected person are fever, dizziness, breathlessness, headache, dry cough ( eventually result in phlegm) and in a few cases loss in smell and taste. A few cases have also reported diarrhoea and fatigue.
   utter_treatment:
   - buttons:
-    - payload: self_care
+    - payload: /self_care
       title: Self Care
-    - payload: medical
+    - payload: /medical
       title: Medical Treatment
     image: https://bsmedia.business-standard.com/media-handler.php?mediaPath=http://bsmedia.business-standard.com/_media/bs/img/article/2016-12/23/full/1482515155-826.jpg&width=1200
     text: 'Here are the treatments for COVID-19:'
