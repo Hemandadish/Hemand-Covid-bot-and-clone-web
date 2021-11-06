@@ -73,4 +73,4 @@ stories:
 - story: primary symptoms
   steps:
   - intent: primary_symp
-  - action: utter_primary_smyp
+  - action: utter_primary_symp

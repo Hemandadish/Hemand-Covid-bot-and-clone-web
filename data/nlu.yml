@@ -182,3 +182,6 @@ nlu:
     - what are the primary symptoms of COVID-19
     - primary symptoms of corona virus
     - primary symptoms of novel corona virus
+- intent: treatment
+  examples: |
+    - what are the treatments for corona virus
