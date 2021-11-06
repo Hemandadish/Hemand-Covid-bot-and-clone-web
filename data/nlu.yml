@@ -156,3 +156,9 @@ nlu:
     - how does community spread occurs
     - community spread
     - what is community transmission of coronavirus
+- intent: age_people
+  examples: |
+    - Are people of a particular age vulnerable to coronavirus disease?
+    - does elderly people get affected by corona easily
+    - aged people can easily get infected by corona
+    - are aged people at high risk of COVID-19
