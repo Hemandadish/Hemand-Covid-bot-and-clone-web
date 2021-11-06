@@ -125,7 +125,13 @@ responses:
   - image: https://cdn.vox-cdn.com/thumbor/b_XHmLAgjMLRq4shAqoZVZSgiMw=/1400x1050/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/20537762/Covid_Symptoms.png
     text: Some of the primary symptoms to look for in a Covid 19 infected person are fever, dizziness, breathlessness, headache, dry cough ( eventually result in phlegm) and in a few cases loss in smell and taste. A few cases have also reported diarrhoea and fatigue.
   utter_treatment:
-  - text: 'Here are the treatments for COVID-19:'
+  - buttons:
+    - payload: self_care
+      title: Self Care
+    - payload: medical
+      title: Medical Treatment
+    image: https://bsmedia.business-standard.com/media-handler.php?mediaPath=http://bsmedia.business-standard.com/_media/bs/img/article/2016-12/23/full/1482515155-826.jpg&width=1200
+    text: 'Here are the treatments for COVID-19:'
   utter_self_care:
   - text: |-
       ✔Isolate yourself in a well ventilated room.
@@ -146,6 +152,8 @@ responses:
       ✔Continue the medications for other co-morbid illness after consulting the treating physician.
       ✔Patients to follow symptomatic management for fever, running nose and cough, as warranted.
       ✔Patients may perform warm water gargles or take steam inhalation twice a day.
-actions: []
+actions:
+- affirm
+- afiirm
 forms: {}
 e2e_actions: []
