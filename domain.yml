@@ -37,6 +37,8 @@ intents:
     use_entities: true
 - age_people:
     use_entities: true
+- age_high_risk:
+    use_entities: true
 entities: []
 slots: {}
 responses:
@@ -80,6 +82,9 @@ responses:
       The COVID-19 pandemic is impacting the global population in drastic ways. In many countries, older people are facing the most threats and challenges at this time.
 
       Although all age groups are at risk of contracting COVID-19, older people face significant risk of developing severe illness if they contract the disease due to physiological changes that come with ageing and potential underlying health conditions.
+  utter_age_high_risk:
+  - image: https://www.childrens.com/wps/wcm/connect/childrenspublic/dfa22893-c842-4c4f-b410-6e56feef1273/shutterstock_1723992349_525x315.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_6IH81240MO2M00A9420PHQ3004-dfa22893-c842-4c4f-b410-6e56feef1273-nG88dyi
+    text: Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
 actions: []
 forms: {}
 e2e_actions: []

@@ -58,3 +58,7 @@ stories:
   steps:
   - intent: age_people
   - action: utter_age_people
+- story: high risk
+  steps:
+  - intent: age_high_risk
+  - action: utter_age_high_risk

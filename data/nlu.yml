@@ -113,8 +113,10 @@ nlu:
     - who is at higher risk of infection
     - who is more prone to get corona virus infection
     - who is at higher risk of serious symptoms
-    - Who are at higher risk of developing serious illness from COVID-19?
     - who is at higher risk
+- intent: age_high_risk
+  examples: |
+    - Who are at higher risk of developing serious illness from COVID-19?
 - intent: corona_spread
   examples: |
     - how does corona virus spread
