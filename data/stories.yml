@@ -77,11 +77,8 @@ stories:
 - story: treatments
   steps:
   - intent: treatment
-  - intent: affirm
   - action: utter_treatment
-  - intent: self_care
   - intent: affirm
   - action: utter_self_care
-  - intent: medical
   - intent: affirm
   - action: utter_medical
