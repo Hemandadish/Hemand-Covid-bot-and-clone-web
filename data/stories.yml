@@ -70,3 +70,7 @@ stories:
   steps:
   - intent: symptoms
   - action: utter_symptoms
+- story: primary symptoms
+  steps:
+  - intent: primary_symp
+  - action: utter_primary_smyp

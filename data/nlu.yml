@@ -176,3 +176,9 @@ nlu:
     - what are the symptoms of novel corona virus
     - list out the symptoms of corona virus
     - list out the signs for corona virus
+- intent: primary_symp
+  examples: |
+    - list out the primary symptoms of COVID-19
+    - what are the primary symptoms of COVID-19
+    - primary symptoms of corona virus
+    - primary symptoms of novel corona virus

@@ -43,6 +43,8 @@ intents:
     use_entities: true
 - symptoms:
     use_entities: true
+- primary_symp:
+    use_entities: true
 entities: []
 slots: {}
 responses:
@@ -113,6 +115,9 @@ responses:
       🌡difficulty breathing or shortness of breath
       🌡loss of speech or mobility, or confusion
       🌡chest pain
+  utter_primary_symp:
+  - image: https://cdn.vox-cdn.com/thumbor/b_XHmLAgjMLRq4shAqoZVZSgiMw=/1400x1050/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/20537762/Covid_Symptoms.png
+    text: Some of the primary symptoms to look for in a Covid 19 infected person are fever, dizziness, breathlessness, headache, dry cough ( eventually result in phlegm) and in a few cases loss in smell and taste. A few cases have also reported diarrhoea and fatigue.
 actions: []
 forms: {}
 e2e_actions: []
