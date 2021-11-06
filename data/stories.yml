@@ -54,3 +54,7 @@ stories:
   steps:
   - intent: community_spread
   - action: utter_community_spread
+- story: aged people
+  steps:
+  - intent: age_people
+  - action: utter_age_people

@@ -35,6 +35,8 @@ intents:
     use_entities: true
 - community_spread:
     use_entities: true
+- age_people:
+    use_entities: true
 entities: []
 slots: {}
 responses:
@@ -72,6 +74,12 @@ responses:
   utter_community_spread:
   - image: https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202011/MIT-Covid-SuperSpread-01-press_0.jpg?itok=Q-PhEfOE
     text: Community spread means people have been infected with the virus in an area, including some who are not sure how or where they became infected. Each health department determines community spread differently based on local conditions. For information on community spread in your area, please visit your local health department's website.
+  utter_age_people:
+  - image: https://static01.nyt.com/images/2020/09/08/science/04SCI-VIRUS-AGING1/04SCI-VIRUS-AGING1-superJumbo-v3.jpg
+    text: |-
+      The COVID-19 pandemic is impacting the global population in drastic ways. In many countries, older people are facing the most threats and challenges at this time.
+
+      Although all age groups are at risk of contracting COVID-19, older people face significant risk of developing severe illness if they contract the disease due to physiological changes that come with ageing and potential underlying health conditions.
 actions: []
 forms: {}
 e2e_actions: []
