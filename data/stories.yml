@@ -88,3 +88,7 @@ stories:
   - action: utter_medical
   - intent: affirm
   - action: utter_medical
+- story: prevention
+  steps:
+  - intent: prevention
+  - action: utter_prevention
