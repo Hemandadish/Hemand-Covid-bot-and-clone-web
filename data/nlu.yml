@@ -201,3 +201,8 @@ nlu:
     - What are some ways to prevent the spread of COVID-19?
     - prevention of COVID-19
     - ways for the prevention of novel corona virus
+- intent: overall_cases
+  examples: |
+    - overall corona virus cases
+    - how many cases have been reported
+    - corona cases so far
