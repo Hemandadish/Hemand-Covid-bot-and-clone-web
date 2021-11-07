@@ -53,6 +53,8 @@ intents:
     use_entities: true
 - affirm_self_care:
     use_entities: true
+- prevention:
+    use_entities: true
 entities: []
 slots: {}
 responses:
@@ -156,6 +158,14 @@ responses:
       ✔Continue the medications for other co-morbid illness after consulting the treating physician.
       ✔Patients to follow symptomatic management for fever, running nose and cough, as warranted.
       ✔Patients may perform warm water gargles or take steam inhalation twice a day.
+  utter_prevention:
+  - image: https://www.gstatic.com/healthricherkp/campaigns/wear-mask-save-lives/UZ9ZuX.svg
+    text: |-
+      Stopping the spreadstarts with you:
+      ✔Wear a mask.
+      ✔Clean your hands.
+      ✔Maintain safe distance.
+      ✔Get vaccinated.
 actions:
 - affirm
 - afiirm
