@@ -195,3 +195,9 @@ nlu:
   examples: |
     - medical treatment
     - medical
+- intent: prevention
+  examples: |
+    - how to prevent corona
+    - What are some ways to prevent the spread of COVID-19?
+    - prevention of COVID-19
+    - ways for the prevention of novel corona virus
