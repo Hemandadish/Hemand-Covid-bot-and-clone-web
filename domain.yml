@@ -65,7 +65,7 @@ entities: []
 slots: {}
 responses:
   utter_greet:
-  - image: https://o.remove.bg/downloads/8c064cf0-7588-44da-87d6-7e89c44816d7/1608731313-masterclassherosara-1-removebg-preview.png
+  - image: https://o.remove.bg/downloads/c1b735b7-4e95-4bd7-a655-a706d1d60568/1608731313-masterclassherosara-1-removebg-preview.png
     text: Hello! Lufy here.. I can help you with the information related to COVID-19 answers on the topic info of corona virus, spread, symptoms, treatment, prevention, current statistics and more.
   utter_cheer_up:
   - image: https://i.imgur.com/nGF1K8f.jpg
@@ -173,7 +173,7 @@ responses:
       ✔Maintain safe distance.
       ✔Get vaccinated.
   utter_overall_cases:
-  - image: https://o.remove.bg/downloads/c0805064-36c7-41c4-a205-00ab6371ff75/daily_new_cases-removebg-preview.png
+  - image: https://o.remove.bg/downloads/adaa54bb-0ac4-42ea-87c2-ec1447cada04/daily_new_cases-removebg-preview.png
     text: |-
       Coronavirus Cases:
       - 250,718,983
@@ -182,12 +182,12 @@ responses:
       Recovered:
       - 226,942,308
   utter_active_cases:
-  - image: https://o.remove.bg/downloads/2640d63e-f154-46a9-b6e3-ee3081df9452/ACTIVE_CASES-removebg-preview.png
+  - image: https://o.remove.bg/downloads/62085905-b4dc-4996-8de2-d644feca4a3a/ACTIVE_CASES-removebg-preview.png
     text: |-
       ACTIVE CASES:- ⚫18,703,027- Currently Infected Patients. ⚫18,627,078 (99.6%) in Mild Condition.
       ⚫75,949 (0.4%) Serious or Critical.
   utter_closed_cases:
-  - image: https://o.remove.bg/downloads/07b2298b-f756-4a55-a2d1-abfbd7162d0a/CLOSED_CASES-removebg-preview.png
+  - image: https://o.remove.bg/downloads/6a300cf8-d324-4c4c-8347-bcee48a362f8/CLOSED_CASES-removebg-preview.png
     text: |-
       CLOSED CASES:-  ⚫231,758,426 - Cases which had an outcome.
       ⚫226,695,240 (98%) - Recovered / Discharged.
