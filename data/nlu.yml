@@ -205,3 +205,4 @@ nlu:
   examples: |
     - overall corona virus cases
     - how many cases have been reported so far
+    - overall cases
