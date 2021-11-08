@@ -96,3 +96,7 @@ stories:
   steps:
   - intent: overall_cases
   - action: utter_overall_cases
+- story: active cases
+  steps:
+  - intent: active_cases
+  - action: utter_active_cases
