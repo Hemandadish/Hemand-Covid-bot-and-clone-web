@@ -169,7 +169,7 @@ responses:
       ✔Maintain safe distance.
       ✔Get vaccinated.
   utter_overall_cases:
-  - image: https://o.remove.bg/downloads/43d1deff-6339-43ec-9467-a6b595b10457/active_and_closed_cases-removebg-preview.png
+  - image: https://o.remove.bg/downloads/c0805064-36c7-41c4-a205-00ab6371ff75/daily_new_cases-removebg-preview.png
     text: |-
       Coronavirus Cases:
       - 250,718,983
