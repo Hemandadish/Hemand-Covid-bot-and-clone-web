@@ -168,14 +168,6 @@ responses:
       ✔Clean your hands.
       ✔Maintain safe distance.
       ✔Get vaccinated.
-  utter_overall_cases:
-  - image: https://o.remove.bg/downloads/07fc7dc1-dcd3-4a72-a212-ff18b0d50b98/active_and_closed_cases-removebg-preview.png
-    text: |-
-      Coronavirus Cases:250,443,065
-      Deaths:
-      - 5,063,160
-      Recovered:
-      - 226,693,035
 actions:
 - affirm
 - afiirm

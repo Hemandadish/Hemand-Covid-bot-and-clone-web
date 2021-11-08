@@ -204,7 +204,4 @@ nlu:
 - intent: overall_cases
   examples: |
     - overall corona virus cases
-    - how many cases have been reported
-    - corona cases so far
-    - overall cases
-    - overall corona cases
+    - how many cases have been reported so far
