@@ -55,6 +55,8 @@ intents:
     use_entities: true
 - prevention:
     use_entities: true
+- overall_cases:
+    use_entities: true
 entities: []
 slots: {}
 responses:
@@ -166,6 +168,13 @@ responses:
       ✔Clean your hands.
       ✔Maintain safe distance.
       ✔Get vaccinated.
+  utter_overall_cases:
+  - text: |-
+      Coronavirus Cases:250,443,065
+      Deaths:
+      - 5,063,160
+      Recovered:
+      - 226,693,035
 actions:
 - affirm
 - afiirm
