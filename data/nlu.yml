@@ -214,3 +214,7 @@ nlu:
     - active cases so far
     - how many active cases
     - active COVI-19 cases so far
+- intent: closed_cases
+  examples: |
+    - closed corona cases
+    - closed covid cases
