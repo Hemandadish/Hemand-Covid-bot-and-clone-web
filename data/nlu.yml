@@ -208,3 +208,9 @@ nlu:
     - overall cases
     - list the overall cases reported
     - overall COVID-19 cases in the world
+- intent: active_cases
+  examples: |
+    - active corona cases till date
+    - active cases so far
+    - how many active cases
+    - active COVI-19 cases so far
