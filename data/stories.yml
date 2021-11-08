@@ -92,3 +92,7 @@ stories:
   steps:
   - intent: prevention
   - action: utter_prevention
+- story: overall cases
+  steps:
+  - intent: overall_cases
+  - action: utter_overall_cases
