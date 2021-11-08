@@ -100,3 +100,7 @@ stories:
   steps:
   - intent: active_cases
   - action: utter_active_cases
+- story: closed cases
+  steps:
+  - intent: closed_cases
+  - action: utter_closed_cases

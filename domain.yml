@@ -59,6 +59,8 @@ intents:
     use_entities: true
 - active_cases:
     use_entities: true
+- closed_cases:
+    use_entities: true
 entities: []
 slots: {}
 responses:
@@ -184,6 +186,13 @@ responses:
     text: |-
       ACTIVE CASES:- ⚫18,703,027- Currently Infected Patients. ⚫18,627,078 (99.6%) in Mild Condition.
       ⚫75,949 (0.4%) Serious or Critical.
+  utter_closed_cases:
+  - image: https://o.remove.bg/downloads/07b2298b-f756-4a55-a2d1-abfbd7162d0a/CLOSED_CASES-removebg-preview.png
+    text: |-
+      CLOSED CASES:-  ⚫231,758,426 - Cases which had an outcome.
+      ⚫226,695,240 (98%) - Recovered / Discharged.
+
+      ⚫5,063,186 (2%) - Deaths.
 actions:
 - affirm
 - afiirm
