@@ -203,6 +203,7 @@ nlu:
   examples: |
     - medical treatment
     - medical
+    - /medical
 - intent: prevention
   examples: |
     - how to prevent corona
