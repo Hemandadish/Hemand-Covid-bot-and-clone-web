@@ -98,3 +98,7 @@ stories:
   steps:
   - intent: closed_cases
   - action: utter_closed_cases
+- story: affect
+  steps:
+  - intent: affect
+  - action: utter_affect
