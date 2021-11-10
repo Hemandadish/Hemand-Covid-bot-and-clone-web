@@ -108,12 +108,14 @@ nlu:
     - tell me about corona
     - can you tell me about corona
     - can you tell me about covid-19
+    - what is covid 19
 - intent: corona_risk
   examples: |
     - who is at higher risk of infection
     - who is more prone to get corona virus infection
     - who is at higher risk of serious symptoms
     - who is at higher risk
+    - who are at high risk
 - intent: age_high_risk
   examples: |
     - Who are at higher risk of developing serious illness from COVID-19?
@@ -129,6 +131,8 @@ nlu:
     - covid19 spread
     - How does COVID-19 spread?
     - how novel corona virus spread
+    - how does corona sprread
+    - how corona spreads
 - intent: corona_food_spread
   examples: |
     - Can COVID-19 (coronavirus) spread through food
@@ -176,17 +180,21 @@ nlu:
     - what are the symptoms of novel corona virus
     - list out the symptoms of corona virus
     - list out the signs for corona virus
+    - signs of corona
+    - symptoms of corona
 - intent: primary_symp
   examples: |
     - list out the primary symptoms of COVID-19
     - what are the primary symptoms of COVID-19
     - primary symptoms of corona virus
     - primary symptoms of novel corona virus
+    - primary symptoms of corona
 - intent: treatment
   examples: |
     - what are the treatments for corona virus
     - list out down the treatments for covid-19
     - treatments for corona
+    - treatment for corona
 - intent: self_care
   examples: |
     - self care
@@ -208,13 +216,18 @@ nlu:
     - overall cases
     - list the overall cases reported
     - overall COVID-19 cases in the world
+    - overall corona cases
+    - overall corona cases o far
 - intent: active_cases
   examples: |
     - active corona cases till date
     - active cases so far
     - how many active cases
     - active COVID-19 cases so far
+    - active classes
+    - active cases
 - intent: closed_cases
   examples: |
     - closed corona cases
     - closed covid cases
+    - closed cases
