@@ -51,8 +51,6 @@ intents:
     use_entities: true
 - medical:
     use_entities: true
-- affirm_self_care:
-    use_entities: true
 - prevention:
     use_entities: true
 - overall_cases:
@@ -200,8 +198,6 @@ responses:
   utter_affect:
   - image: https://media.wired.com/photos/5eb08d639fa72e5901a7bfc3/2:1/w_2399,h_1199,c_limit/business-feature-black_communities_covid-1889380-93906768-171116469-1075081202-1188431815.jpg
     text: Current evidence suggests that the virus spreads mainly between people who are in close contact with each other, typically within 1 metre (short-range). A person can be infected when aerosols or droplets containing the virus are inhaled or come directly into contact with the eyes, nose, or mouth.
-actions:
-- affirm
-- afiirm
+actions: []
 forms: {}
 e2e_actions: []
