@@ -61,6 +61,8 @@ intents:
     use_entities: true
 - closed_cases:
     use_entities: true
+- affect:
+    use_entities: true
 entities: []
 slots: {}
 responses:
@@ -195,6 +197,9 @@ responses:
       ⚫231,758,426 - Cases which had an outcome.
       ⚫226,695,240 (98%) - Recovered / Discharged. 
       ⚫5,063,186 (2%) - Deaths.
+  utter_affect:
+  - image: https://media.wired.com/photos/5eb08d639fa72e5901a7bfc3/2:1/w_2399,h_1199,c_limit/business-feature-black_communities_covid-1889380-93906768-171116469-1075081202-1188431815.jpg
+    text: Current evidence suggests that the virus spreads mainly between people who are in close contact with each other, typically within 1 metre (short-range). A person can be infected when aerosols or droplets containing the virus are inhaled or come directly into contact with the eyes, nose, or mouth.
 actions:
 - affirm
 - afiirm

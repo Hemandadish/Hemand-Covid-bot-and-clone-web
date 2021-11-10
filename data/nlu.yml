@@ -231,3 +231,7 @@ nlu:
     - closed corona cases
     - closed covid cases
     - closed cases
+- intent: affect
+  examples: |
+    - how do i get affected by corona
+    - how i get infected by corona
