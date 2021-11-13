@@ -114,3 +114,7 @@ stories:
   steps:
   - intent: alpha_variant
   - action: utter_alpha_variant
+- story: virus
+  steps:
+  - intent: virus
+  - action: utter_virus

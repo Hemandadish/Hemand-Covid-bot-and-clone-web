@@ -245,6 +245,9 @@ nlu:
     - corona variants
     - variants of corona
     - variants of novel corona virus
+    - which virus spread corona
+    - variants of SARS-CoV-2
+    - list down the variants of SARS-CoV-2
 - intent: delta_variant
   examples: |
     - what is delta variant
@@ -260,4 +263,3 @@ nlu:
     - what causes corona
     - which virus causes corona
     - which virus causes covid-19
-    - which virus spread corona
