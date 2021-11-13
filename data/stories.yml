@@ -118,3 +118,7 @@ stories:
   steps:
   - intent: virus
   - action: utter_virus
+- story: beta
+  steps:
+  - intent: beta_variant
+  - action: utter_beta_variant

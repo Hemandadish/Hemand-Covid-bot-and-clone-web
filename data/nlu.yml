@@ -238,6 +238,7 @@ nlu:
   examples: |
     - how do i get affected by corona
     - how i get infected by corona
+    - how do i catch covid-19
 - intent: variants
   examples: |
     - types of corona variants
@@ -263,3 +264,7 @@ nlu:
     - what causes corona
     - which virus causes corona
     - which virus causes covid-19
+- intent: beta_variant
+  examples: |
+    - tell me about beta variant
+    - what is beta variant
