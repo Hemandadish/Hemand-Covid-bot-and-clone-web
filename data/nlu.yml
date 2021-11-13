@@ -23,6 +23,7 @@ nlu:
     - Hi
     - HII
     - hiii
+    - hello chatbot
 - intent: goodbye
   examples: |
     - good afternoon
