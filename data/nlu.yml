@@ -240,3 +240,11 @@ nlu:
 - intent: variants
   examples: |
     - what is covid variants
+    - covid variants
+    - corona variants
+    - variants of corona
+    - variants of novel corona virus
+- intent: delta_variant
+  examples: |
+    - what is delta variant
+    - tell me about delta variant

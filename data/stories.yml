@@ -102,3 +102,7 @@ stories:
   steps:
   - intent: affect
   - action: utter_affect
+- story: variants
+  steps:
+  - intent: variants
+  - action: utter_variants
