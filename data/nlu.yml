@@ -249,3 +249,8 @@ nlu:
   examples: |
     - what is delta variant
     - tell me about delta variant
+- intent: alpha_variant
+  examples: |
+    - what are alpha variants
+    - alpha variants
+    - tell me about alpha variants
