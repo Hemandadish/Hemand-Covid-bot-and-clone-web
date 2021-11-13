@@ -183,6 +183,7 @@ nlu:
     - list out the signs for corona virus
     - signs of corona
     - symptoms of corona
+    - what symptoms i should watch out for covid
 - intent: primary_symp
   examples: |
     - list out the primary symptoms of COVID-19
@@ -239,7 +240,7 @@ nlu:
     - how i get infected by corona
 - intent: variants
   examples: |
-    - what is covid variants
+    - types of corona variants
     - covid variants
     - corona variants
     - variants of corona
@@ -248,3 +249,7 @@ nlu:
   examples: |
     - what is delta variant
     - tell me about delta variant
+- intent: variants_info
+  examples: |
+    - what are corona variants
+    - explain about corona variants

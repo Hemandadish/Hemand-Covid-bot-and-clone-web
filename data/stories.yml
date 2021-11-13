@@ -106,3 +106,7 @@ stories:
   steps:
   - intent: variants
   - action: utter_variants
+- story: delta
+  steps:
+  - intent: delta_variant
+  - action: utter_delta_variant

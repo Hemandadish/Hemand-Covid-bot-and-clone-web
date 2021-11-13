@@ -65,6 +65,8 @@ intents:
     use_entities: true
 - delta_variant:
     use_entities: true
+- variants_info:
+    use_entities: true
 entities: []
 slots: {}
 responses:
@@ -207,7 +209,7 @@ responses:
     text: Alpha, beta, gamma, and delta variants of the SARS-CoV-2 coronavirus are classified as variants of concern.
   utter_delta_variant:
   - image: https://static.euronews.com/articles/stories/06/16/40/78/1440x810_cmsv2_50ee1acd-662a-5f19-a59d-2769f1b52487-6164078.jpg
-    text: The Delta variant causes more infections and spreads faster than earlier forms of the virus that causes COVID-19. Vaccines continue to reduce a person’s risk of contracting the virus that causes COVID-19, including this variant. Vaccines are also highly effective against severe illness.
+    text: Delta or B.1.617.2, first identified in India, appears to be spreading quickly in many countries. The Delta variant causes more infections and spreads faster than earlier forms of the virus that causes COVID-19. Vaccines continue to reduce a person’s risk of contracting the virus that causes COVID-19, including this variant. Vaccines are also highly effective against severe illness.
 actions: []
 forms: {}
 e2e_actions: []
