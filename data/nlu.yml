@@ -254,3 +254,10 @@ nlu:
     - what are alpha variants
     - alpha variants
     - tell me about alpha variants
+- intent: virus
+  examples: |
+    - what causes covid-19
+    - what causes corona
+    - which virus causes corona
+    - which virus causes covid-19
+    - which virus spread corona
