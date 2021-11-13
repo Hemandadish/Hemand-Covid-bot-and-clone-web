@@ -258,6 +258,8 @@ nlu:
     - what are alpha variants
     - alpha variants
     - tell me about alpha variants
+    - B.1.1.7 variant
+    - Q lineage
 - intent: virus
   examples: |
     - what causes covid-19
