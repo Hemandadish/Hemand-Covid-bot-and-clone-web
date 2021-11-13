@@ -237,3 +237,6 @@ nlu:
   examples: |
     - how do i get affected by corona
     - how i get infected by corona
+- intent: variants
+  examples: |
+    - what is covid variants
