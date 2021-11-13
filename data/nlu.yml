@@ -260,7 +260,6 @@ nlu:
     - tell me about alpha variants
     - B.1.1.7 variant
     - Q lineage
-    - B.1.351 variant
 - intent: virus
   examples: |
     - what causes covid-19
@@ -271,8 +270,19 @@ nlu:
   examples: |
     - tell me about beta variant
     - what is beta variant
+    - B.1.351 variant
+    - descendent lineages
 - intent: gamma_variant
   examples: |
     - gamma variant of covid 19
     - what are gamma variants of corona
     - gamma variants
+    - P.1 variant
+    - P.1 descendent lineage
+- intent: epsilon_variant
+  examples: |
+    - Epsilon variant
+    - what are epsilon variants
+    - tell me about epsilon variants
+    - B.1.427 variant
+    - B.1.429 variant
