@@ -249,7 +249,3 @@ nlu:
   examples: |
     - what is delta variant
     - tell me about delta variant
-- intent: variants_info
-  examples: |
-    - what are corona variants
-    - explain about corona variants
