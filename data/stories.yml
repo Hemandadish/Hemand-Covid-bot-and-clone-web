@@ -122,3 +122,7 @@ stories:
   steps:
   - intent: beta_variant
   - action: utter_beta_variant
+- story: gamma
+  steps:
+  - intent: gamma_variant
+  - action: utter_gamma_variant

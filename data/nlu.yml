@@ -268,3 +268,8 @@ nlu:
   examples: |
     - tell me about beta variant
     - what is beta variant
+- intent: gamma_variant
+  examples: |
+    - gamma variant of covid 19
+    - what are gamma variants of corona
+    - gamma variants

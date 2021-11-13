@@ -71,6 +71,8 @@ intents:
     use_entities: true
 - beta_variant:
     use_entities: true
+- gamma_variant:
+    use_entities: true
 entities: []
 slots: {}
 responses:
@@ -236,6 +238,9 @@ responses:
   utter_beta_variant:
   - image: https://images.newscientist.com/wp-content/uploads/2021/02/12132033/gettyimages-1208749506_web.jpg
     text: Beta variant also known as lineage B.1.351 is a variant of SARS-CoV-2, the virus that causes COVID-19. It first detected in South Africa.
+  utter_gamma_variant:
+  - image: https://akm-img-a-in.tosshub.com/indiatoday/images/story/202107/corona_getty_1_1200x768_1200x768.jpeg?tQ3xlzkCl6J1HSIHjGfoG6ludbItCXxQ&size=1200:675
+    text: Gamma variant, also known as lineage P.1,[a] is one of the variants of SARS-CoV-2, the virus that causes COVID-19.
 actions: []
 forms: {}
 e2e_actions: []
