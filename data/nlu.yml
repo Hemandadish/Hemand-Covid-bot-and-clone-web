@@ -260,6 +260,7 @@ nlu:
     - tell me about alpha variants
     - B.1.1.7 variant
     - Q lineage
+    - B.1.351 variant
 - intent: virus
   examples: |
     - what causes covid-19
